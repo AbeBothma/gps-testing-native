@@ -28,12 +28,6 @@
             "required": false
         },
         {
-            "title": "Coarse Location",
-            "name": "android.permission.ACCESS_COARSE_LOCATION",
-            "platform": "android",
-            "required": false
-        },
-        {
             "title": "Background Location",
             "name": "android.permission.ACCESS_BACKGROUND_LOCATION",
             "platform": "android",
@@ -145,8 +139,5 @@
         "nativeOTA": {
             "enabled": false
         }
-    },
-    "appVersion": "1.0.0",
-    "buildNumber": 1,
-    "runtimeUrl": "https://gpstestingnative-sandbox.mxapps.io/"
+    }
 }
