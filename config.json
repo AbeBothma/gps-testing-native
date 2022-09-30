@@ -96,6 +96,12 @@
             "name": "android.permission.VIBRATE",
             "platform": "android",
             "required": false
+        },
+        {
+            "title": "Coarse Location",
+            "name": "android.permission.ACCESS_COARSE_LOCATION",
+            "platform": "android",
+            "required": false
         }
     ],
     "capabilities": {
