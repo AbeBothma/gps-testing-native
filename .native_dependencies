@@ -1,0 +1,8 @@
+{
+    "@react-native-community/push-notification-ios": "1.7.1",
+    "react-native-push-notification": "6.1.2",
+    "react-native-maps": "0.27.1",
+    "react-native-view-shot": "3.1.2",
+    "@react-native-community/geolocation": "2.0.2",
+    "react-native-geolocation-service": "5.2.0"
+}
